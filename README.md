@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning web-development and machine learning.
 - 👯 I’m looking to collaborate on ... ML based projects, python projects and  web projects.
-- 💻 I'm interested in competetive programming .
+- 💻 I'm interested in competitive programming .
 - 📫 Reach me at:  
 
 <a href="https://www.linkedin.com/in/abhis03/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
