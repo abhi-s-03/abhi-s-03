@@ -28,4 +28,4 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" width="70" height="30"/>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-s-03&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true" height="150" alt="languages graph"  /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-s-03&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&langs_count=8&size_weight=0.5&count_weight=1&include_all_commits=true&count_private=true" height="150" alt="languages graph"  /></p>
