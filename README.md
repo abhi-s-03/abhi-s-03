@@ -12,4 +12,4 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,react,nextjs,flask,express,firebase,mysql,postgres,mongodb,sklearn"/>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-s-03&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&langs_count=8&size_weight=0.5&count_weight=1&include_all_commits=true&count_private=true" height="150" alt="languages graph"  /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-s-03&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&langs_count=7&size_weight=0.5&count_weight=1&include_all_commits=true&count_private=true" height="150" alt="languages graph"  /></p>
